@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/ALAssetsLibrary+I17Album.h

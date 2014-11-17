@@ -8,6 +8,8 @@
 
 #import "I17ViewController.h"
 
+#import <AssetsLibrary/AssetsLibrary.h>
+
 @interface I17ViewController ()
 
 @end

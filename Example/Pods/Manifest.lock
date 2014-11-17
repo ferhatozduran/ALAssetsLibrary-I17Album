@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ALAssetsLibrary+I17Album: db4ff1fbeb17be68261a85f9db978e4fc206d4f4
+  ALAssetsLibrary+I17Album: 934e48ff8cd6ba54588f058ba3ea8e5b88df0cc4
 
 COCOAPODS: 0.34.4
