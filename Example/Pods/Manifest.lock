@@ -1,0 +1,14 @@
+PODS:
+  - ALAssetsLibrary+I17Album (0.1.0)
+
+DEPENDENCIES:
+  - ALAssetsLibrary+I17Album (from `../`)
+
+EXTERNAL SOURCES:
+  ALAssetsLibrary+I17Album:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ALAssetsLibrary+I17Album: db4ff1fbeb17be68261a85f9db978e4fc206d4f4
+
+COCOAPODS: 0.34.4

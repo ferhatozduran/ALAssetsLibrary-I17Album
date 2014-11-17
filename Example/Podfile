@@ -1,11 +1,11 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
-target 'ALAssetsLibrary-I17Album', :exclusive => true do
-  pod "ALAssetsLibrary-I17Album", :path => "../"
+target 'ALAssetsLibrary+I17Album', :exclusive => true do
+  pod "ALAssetsLibrary+I17Album", :path => "../"
 end
 
 target 'Tests', :exclusive => true do
-  pod "ALAssetsLibrary-I17Album", :path => "../"
+  pod "ALAssetsLibrary+I17Album", :path => "../"
 
   
 end

@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint ALAssetsLibrary-I17Album.podspec' to ensure this is a
+# Be sure to run `pod lib lint ALAssetsLibrary+I17Album.podspec' to ensure this is a
 # valid spec and remove all comments before submitting the spec.
 #
 # Any lines starting with a # are optional, but encouraged
@@ -8,11 +8,11 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "ALAssetsLibrary-I17Album"
+  s.name             = "ALAssetsLibrary+I17Album"
   s.version          = "0.1.0"
-  s.summary          = "A short description of ALAssetsLibrary-I17Album."
+  s.summary          = "A short description of ALAssetsLibrary+I17Album."
   s.description      = <<-DESC
-                       An optional longer description of ALAssetsLibrary-I17Album
+                       An optional longer description of ALAssetsLibrary+I17Album
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes'
   s.resource_bundles = {
-    'ALAssetsLibrary-I17Album' => ['Pod/Assets/*.png']
+    'ALAssetsLibrary+I17Album' => ['Pod/Assets/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
